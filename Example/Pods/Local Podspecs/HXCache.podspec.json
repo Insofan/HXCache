@@ -1,0 +1,28 @@
+{
+  "name": "HXCache",
+  "version": "0.1.0",
+  "summary": "A delightful cache for iOS paltform.",
+  "description": "A delightful cache for iOS paltform..",
+  "homepage": "https://github.com/insofan/HXCache",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "insofan": "282132315@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/insofan/HXCache.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "http://blog.insomnia.world",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HXCache/*.{h,m}",
+  "public_header_files": "HXCache/*.{h}",
+  "frameworks": [
+    "UIKit",
+    "CoreFoundation"
+  ]
+}
